@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+We be gaming all the time. We love guns and we love aquatic creatures! POGGERS
 <!--
 
 **Here are some ideas to get you started:**
