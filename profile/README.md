@@ -1,13 +1,8 @@
-## Hi there 👋
+## About
 
-We be gaming all the time. We love guns and we love aquatic creatures! POGGERS
-<!--
+Hey there! We're Survive The Summit, an indie dev studio founded by a group of Northeastern University students and alumni.
 
-**Here are some ideas to get you started:**
+## What are we working on?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Gloctopus 🐙 🔫
+An action-roguelike about a gun-wielding octopus saving the world from nuclear annihilation. Wishlist it on [Steam](https://store.steampowered.com/app/3590670/Gloctopus/)!
